@@ -1,4 +1,4 @@
-# sentiment_analysis_LSTM_CNN
+# Sentiment Analysis using LSTM and CNN Models
 Classifying IMBD reviews into positive or negative using CNN and LSTM based models
 
 ### Objective:
