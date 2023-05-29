@@ -1,7 +1,8 @@
 # sentiment_analysis_LSTM_CNN
 Classifying IMBD reviews into positive or negative using CNN and LSTM based models
 
-### Objective: classify the IMDB Reviews into positive or negative. 
+### Objective:
+
 In this notebook we explore different DL-based text classification models and compare their performance. 
 The notebook is coded with Keras and explores the following three architectures:
 CNN-based models with and without pre-trained embeddings
